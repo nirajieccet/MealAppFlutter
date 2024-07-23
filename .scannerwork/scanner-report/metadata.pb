@@ -1,4 +1,4 @@
-âÏøï2MealApp(:R
+¼¯’ñ2MealApp(:R
 
 kubernetesD
 $b68373f6-b406-4f42-8def-97e5320731a6	Sonar way
@@ -62,4 +62,4 @@ $78063c32-3293-4f55-a02b-b34986b75730	Sonar wayts è¯Ú2B
 iac
 iacß¨¯Ú2B
 text
-textá¨¯Ú2‚1
+textá¨¯Ú2j(8af66a9d731f41de37e1ba5131668eb138427c0e‚1
